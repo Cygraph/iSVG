@@ -229,10 +229,6 @@ function onISVG ( e ) {
     }
     
     function fire ( evt ) {
-        //evt.svgs = $( evt.svgs );
-        //evt.fallbacks = $( evt.fallbacks );
-        //evt.missing = $( evt.missing );
-        
         if ( typeof evt.callback === "function" ) {
             evt.callback.call( null, evt );
         }
