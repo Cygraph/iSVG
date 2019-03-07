@@ -292,16 +292,3 @@ function onISVG ( e ) {
     // :)
     
 })( jQuery );
-
-/*
-
-<img class="isvg" src="graphic.svg">
-
-<div class="isvg" data-src="graphic.svg">
-
-$.isvg( callbacks )
-$.isvg.before( targetEl, svgUrl, fallbackImg )
-$.isvg.after( targetEl, svgUrl, fallbackImg )
-$.isvg.replace( targetEl, svgUrl, fallbackImg )
-$.isvg.feature()
-*/
