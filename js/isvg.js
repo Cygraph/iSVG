@@ -293,7 +293,7 @@ function onISVG ( e ) {
         return i !== -1 && i === pos;
     }
     
-    // :)-
+    // :)
     
 })( jQuery );
 
