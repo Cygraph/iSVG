@@ -1,0 +1,10 @@
+.isvg,
+.replace {
+    width: 200px;
+    margin: 30px;
+}
+
+.target {
+    height: 200px;
+    background-color: orange;
+}
