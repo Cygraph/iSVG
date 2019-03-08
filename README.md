@@ -1,4 +1,5 @@
 # iSVG
+Version 0.3.4
 
 #### Transforms short svg html notations into inline svg
 
