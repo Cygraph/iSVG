@@ -2,10 +2,7 @@
 
 #### Transforms short svg html notations into inline svg
 
-Fallback possibility
-Callback with detailed event object
-General parameter settings: optimize, inheritClass, inheritId, fallbackFormat
-Insertion methods: replace, before, after
+Fallback possibility. Callback with detailed event object. General parameter settings: optimize, inheritClass, inheritId, fallbackFormat. Insertion methods: replace, before, after
 
 
 HTML initial short
